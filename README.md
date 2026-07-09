@@ -7,7 +7,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Loyalty Program Enrollment Trends:** An evaluation of the historic signup patterns, focusing on growth trends and Customer Lifetime Value (CLV)
 - **2018 Promotion Analysis:** An analysis of the 2018 Promotion customers, understanding their travel profile and impact on revenue
-- **Flight activity & travel trends:** An analysis of flight booking patterns, seasonal trends, and the profile of the program's most active customers
+- **Flight Activity & Travel Trends:** An analysis of flight booking patterns, seasonal trends, and the profile of the program's most active customers
 - **Cancellation & Churn Analysis:** An assessment of cancelled customer profiles with the goal of predicting future cancellations
 
 The SQL queries used to inspect and clean the data can be found [here](airline_loyalty_data_clean.sql).
@@ -39,7 +39,7 @@ Since the loyalty program launched in 2012, enrollment grew significantly in 201
 
 
 # Insights Deep Dive
-### LLoyalty Program Enrollment Trends
+### Loyalty Program Enrollment Trends
 
 * Since the loyalty program launched in 2012, enrollment grew from 1,686 in 2012 to 2,397 customers in 2013 which corresponds to the 42% growth and presents the most significant year on year growth in the history of the program. 
   
